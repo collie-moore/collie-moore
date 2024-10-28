@@ -1,4 +1,4 @@
-### <p align="center"> Amdava MC 👋 </p>
+### <p align="center"> 👋, I am Amdava </p>
 
 I Work as a DevOps Engineer at [**@Buupass**](https://www.buupass.com/). Transitioning from a non-tech background (in Anthropology), to DevOps has been a challenging but rewarding journey. I am passionate about learning new technologies and sharing my knowledge with others. I am also a strong believer in the power of open-source software and I try to contribute to open-source projects as much as I can.
 
